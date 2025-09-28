@@ -1,0 +1,20 @@
+{
+    "data": [
+        {"id":"st-s1e1","seriesId":"st","seriesTitle":"Space Tales","season":1,"episode":1,"title":"Liftoff","description":"A rookie crew attempts their first jump drive.","durationSeconds":1440,"airDate":"2024-01-10","watched":false},
+        {"id":"st-s1e2","seriesId":"st","seriesTitle":"Space Tales","season":1,"episode":2,"title":"Echoes","description":"Strange signals lure the ship to a derelict probe.","durationSeconds":1500,"airDate":"2024-01-17","watched":true},
+        {"id":"st-s1e3","seriesId":"st","seriesTitle":"Space Tales","season":1,"episode":3,"title":"Stowaway","description":"An alien lifeform hides among the cargo.","durationSeconds":1560,"airDate":"2024-01-24","watched":false},
+        {"id":"st-s2e1","seriesId":"st","seriesTitle":"Space Tales","season":2,"episode":1,"title":"Return","description":"The crew faces consequences back at the Core Worlds.","durationSeconds":1620,"airDate":"2024-08-05","watched":false},
+        {"id":"st-s2e2","seriesId":"st","seriesTitle":"Space Tales","season":2,"episode":2,"title":"Mutiny","description":"Divisions threaten the mission.","durationSeconds":1610,"airDate":"2024-08-12","watched":false},
+        {"id":"st-s2e3","seriesId":"st","seriesTitle":"Space Tales","season":2,"episode":3,"title":"Signal","description":"A distress call from a lost colony.","durationSeconds":1630,"airDate":"2024-08-19","watched":true},
+        {"id":"mm-s1e1","seriesId":"mm","seriesTitle":"Mystery Manor","season":1,"episode":1,"title":"Arrival","description":"A detective inherits a haunted estate.","durationSeconds":1320,"airDate":"2023-11-03","watched":false},
+        {"id":"mm-s1e2","seriesId":"mm","seriesTitle":"Mystery Manor","season":1,"episode":2,"title":"The Locked Study","description":"A hidden room reveals an old crime.","durationSeconds":1400,"airDate":"2023-11-10","watched":false},
+        {"id":"mm-s1e3","seriesId":"mm","seriesTitle":"Mystery Manor","season":1,"episode":3,"title":"Footsteps","description":"Night sounds and missing journals.","durationSeconds":1450,"airDate":"2023-11-17","watched":true},
+        {"id":"mm-s2e1","seriesId":"mm","seriesTitle":"Mystery Manor","season":2,"episode":1,"title":"New Tenants","description":"Renovations wake old secrets.","durationSeconds":1500,"airDate":"2024-03-01","watched":false},
+        {"id":"mm-s2e2","seriesId":"mm","seriesTitle":"Mystery Manor","season":2,"episode":2,"title":"Portraits","description":"Eyes that follow and a missing painter.","durationSeconds":1520,"airDate":"2024-03-08","watched":false},
+        {"id":"mm-s2e3","seriesId":"mm","seriesTitle":"Mystery Manor","season":2,"episode":3,"title":"The Cellar","description":"A sealed door below the manor.","durationSeconds":1540,"airDate":"2024-03-15","watched":true}
+    ],
+    "page": 1,
+    "pageSize": 50,
+    "total": 12,
+    "hasMore": false
+}
